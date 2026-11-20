@@ -1,0 +1,16 @@
+{
+  "file": "TITAN_X_ULTRA_COMPAT_2_82.glb",
+  "objects": 57,
+  "meshes": 54,
+  "materials": 6,
+  "actions": 1,
+  "animated_objects": [
+    "TXU_lift_pivot"
+  ],
+  "dimensions_imported_units": [
+    0.275005,
+    0.245,
+    0.08
+  ],
+  "import_pass": true
+}

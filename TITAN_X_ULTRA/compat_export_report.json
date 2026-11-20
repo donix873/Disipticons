@@ -1,0 +1,14 @@
+{
+  "source_blend": "TITAN_X_ULTRA.blend",
+  "selected_objects": 56,
+  "mesh_objects": 54,
+  "animation_frames": [
+    1,
+    90
+  ],
+  "files": {
+    "TITAN_X_ULTRA_COMPAT_2_82.glb": 622744,
+    "TITAN_X_ULTRA_COMPAT_2_82.fbx": 934332
+  },
+  "import_note": "In Blender 2.82 use File > Import, not File > Open."
+}
