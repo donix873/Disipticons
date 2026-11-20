@@ -1,0 +1,73 @@
+{
+  "blender_version_used": "4.3.2",
+  "target_blender_version": "2.82.7",
+  "objects": 63,
+  "mesh_objects": 55,
+  "robot_mesh_objects": 54,
+  "vertices": 2092,
+  "polygons": 1489,
+  "materials": 9,
+  "cameras": 3,
+  "lights": 3,
+  "unapplied_modifiers": 37,
+  "critical_frame_bounds": {
+    "1": {
+      "min_mm": [
+        -128.0,
+        -122.5,
+        8.0
+      ],
+      "max_mm": [
+        147.0,
+        122.5,
+        88.0
+      ],
+      "dimensions_mm": [
+        275.0,
+        245.0,
+        80.0
+      ]
+    },
+    "46": {
+      "min_mm": [
+        -128.0,
+        -122.5,
+        8.0
+      ],
+      "max_mm": [
+        157.837,
+        122.5,
+        132.682
+      ],
+      "dimensions_mm": [
+        285.837,
+        245.0,
+        124.682
+      ]
+    },
+    "90": {
+      "min_mm": [
+        -128.0,
+        -122.5,
+        8.0
+      ],
+      "max_mm": [
+        147.0,
+        122.5,
+        88.0
+      ],
+      "dimensions_mm": [
+        275.0,
+        245.0,
+        80.0
+      ]
+    }
+  },
+  "maximum_dimensions_mm": [
+    285.837,
+    245.0,
+    124.682
+  ],
+  "compatibility_note": "Executed in the listed version; Blender 2.82.7 requires a separate target-machine run.",
+  "blend_size_bytes": 1090860
+}
